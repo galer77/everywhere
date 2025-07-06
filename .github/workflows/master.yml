@@ -16,9 +16,8 @@ jobs:
 
     env:
       TARGET_COMMITS_PER_DAY: 720
-      BOT_NAME: github-actions[bot]
-      BOT_EMAIL: actions@github.com
-
+      BOT_NAME: galer77
+      BOT_EMAIL: anggaler77@gmail.com
     steps:
       - name: Checkout
         uses: actions/checkout@v4
